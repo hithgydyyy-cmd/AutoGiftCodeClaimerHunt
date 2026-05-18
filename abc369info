@@ -563,12 +563,6 @@
         "expirydate": "21-05-2026",
         "Allowoffline": false
     },
-{
-        "device_id": "d0ddb256b2973a26",
-        "key": "@HunterXSushil#OnTop#d0ddb256b2973a26#169",
-        "expirydate": "21-05-2026",
-        "Allowoffline": false
-    },
     {
         "device_id": "Everyone",
         "key": "free",
