@@ -32,7 +32,7 @@
     {
         "device_id": "a02c194965ed4bb7",
         "key": "@HunterXSushil#OnTop#a02c194965ed4bb7#9",
-        "expirydate": "21-05-2026",
+        "expirydate": "23-05-2026",
         "Allowoffline": false
     },
 {
@@ -705,6 +705,12 @@
         "device_id": "4d43bf29e135ee67",
         "key": "@HunterXSushil#OnTop#4d43bf29e135ee67#192",
         "expirydate": "23-05-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "974353f7d00cb3f3",
+        "key": "@HunterXSushil#OnTop#974353f7d00cb3f3#193",
+        "expirydate": "24-05-2026",
         "Allowoffline": false
     },
     {
