@@ -187,7 +187,7 @@
     },
     {
         "device_id": "Common Buttons",
-        "key": "b5174898a379b0d0,f2b44acc2a0e7b6b,e616f97dc8e57244,0eb229c086e7c9bc,a02c194965ed4bb7,d6843a08cbd3d7bd,0f351905e9032c56,e0593a1c9717d8bb,abd37e10b11b1ad9,731d79567980e5a1,a9ce19fa7cde8f37,901a1ba3926d55c7,51e3549857c98562,0cb1ec9686560931,de0531d1efb1694a,a2cfbf8d74972c35,d556595e6ecdf783,76309cc20b392150,c6c98365f998623c,b264915bca65370a,3313a0515f655dd3,eeb84353f5f7fef0,9348b2e85ab7734e",
+        "key": "everyone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
