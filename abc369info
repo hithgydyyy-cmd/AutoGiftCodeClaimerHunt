@@ -1,17 +1,9 @@
-"device_id": "47fa8afe2604f036",
-    "key": "Roshan",
-    "expirydate": "06-08-2026",
-    "Allowoffline": false,
-    "features": [
-      "multi",
-      "updown",
-      "special_autofire",
-      "fire_delay",
-      "multi_tap",
-      "full_ui",
-      "game_tg",
-      "auto_paste",
-      "omni"
-    ]
-  }
+[
+    {
+        "device_id": "47fa8afe2604f036",
+        "key": "Roshan",
+        "expirydate": "06-08-2026",
+        "Allowoffline": false,
+        "features": ["multi","updown","special_autofire","fire_delay","multi_tap","full_ui","game_tg","auto_paste","omni"]
+    }
 ]
