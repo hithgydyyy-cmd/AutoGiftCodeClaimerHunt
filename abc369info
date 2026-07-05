@@ -5,5 +5,12 @@
     "expirydate": "04-08-2026",
     "Allowoffline": true,
     "features": ["multi","updown","special_autofire","fire_delay","multi_tap","full_ui","game_tg","auto_paste","omni"]
+  },
+  {
+    "device_id": "3C9145C914EE34F6",
+    "key": "Adnan-Bhai",
+    "expirydate": "04-08-2026",
+    "Allowoffline": false,
+    "features": ["multi","updown","special_autofire","fire_delay","multi_tap","full_ui","game_tg","auto_paste","omni"]
   }
 ]
