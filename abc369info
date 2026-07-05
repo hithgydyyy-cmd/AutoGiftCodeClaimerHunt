@@ -4,20 +4,40 @@
     "key": "Roshan",
     "expirydate": "06-08-2026",
     "Allowoffline": false,
-    "features": ["multi","updown","special_autofire","fire_delay","multi_tap","full_ui","game_tg","auto_paste","omni"]
+    "features": [
+      "multi",
+      "updown",
+      "special_autofire",
+      "fire_delay",
+      "multi_tap",
+      "full_ui",
+      "game_tg",
+      "auto_paste",
+      "omni"
+    ]
   },
   {
     "device_id": "7d477f1ad98e5fa",
     "key": "@HunterXSushil#OnTop#7d477f1ad98e5fa",
     "expirydate": "06-08-2026",
     "Allowoffline": false,
-    "features": ["multi","updown","special_autofire","fire_delay","multi_tap","full_ui","game_tg","auto_paste","omni"]
+    "features": [
+      "multi",
+      "updown",
+      "special_autofire",
+      "fire_delay",
+      "multi_tap",
+      "full_ui",
+      "game_tg",
+      "auto_paste",
+      "omni"
+    ]
   },
   {
     "device_id": "2b87f381d7ba4ecf",
     "key": "@HunterXSushil#OnTop#2b87f381d7ba4ecf",
     "expirydate": "05-08-2026",
     "Allowoffline": true,
-    "features": ["multi","updown","special_autofire","fire_delay","multi_tap","full_ui","game_tg","auto_paste","omni"]
+    "features": []
   }
 ]
