@@ -1,9 +1,9 @@
 [
   {
     "device_id": "2b87f381d7ba4ecf",
-    "key": "BANNED",
-    "expirydate": "01-01-2000",
+    "key": "avinash",
+    "expirydate": "06-07-2026",
     "Allowoffline": false,
-    "features": []
+    "features": ["multi","updown","special_autofire","fire_delay","multi_tap","full_ui","game_tg","auto_paste","omni"]
   }
 ]
