@@ -1,9 +1,9 @@
 [
   {
-    "device_id": "2b87f381d7ba4ecf",
-    "key": "avinash",
-    "expirydate": "06-07-2026",
-    "Allowoffline": false,
+    "device_id": "18baa14c6250dbde",
+    "key": "Sorry- Bhai",
+    "expirydate": "04-08-2026",
+    "Allowoffline": true,
     "features": ["multi","updown","special_autofire","fire_delay","multi_tap","full_ui","game_tg","auto_paste","omni"]
   }
 ]
